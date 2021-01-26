@@ -1,5 +1,11 @@
 # Simple WP API client for Deno
 
+## Features
+
+- Bulk insert WP posts
+- Support for custom post types & taxonomies
+- ACF support
+
 ## WP Requirements
 
 - ACF to rest API plugin: https://github.com/airesvsg/acf-to-rest-api
